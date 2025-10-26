@@ -81,6 +81,7 @@ export const limit = true`;
     <div className="min-h-screen bg-black text-white">
       <Head>
         <title>Documentation - ytdl simpel by aka</title>
+        <link rel="stylesheet" href="/css/doc.css" />
       </Head>
 
       <div className="container mx-auto px-4 py-8">
@@ -139,4 +140,4 @@ export const limit = true`;
       </div>
     </div>
   );
-                      }
+}
