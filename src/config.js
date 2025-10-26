@@ -1,6 +1,6 @@
 // Frontend Configuration
 export const CONFIG = {
-  BACKEND_URL: process.env.NEXT_PUBLIC_BACKEND_URL || 'https://indraa.naell.my.id',
+  BACKEND_URL: process.env.NEXT_PUBLIC_BACKEND_URL || 'http://165.22.98.163:2000',
   API_ENDPOINTS: {
     YTMP3: '/api/ytmp3',
     YTMP4: '/api/ytmp4',
